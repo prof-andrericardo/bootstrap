@@ -1,0 +1,14 @@
+/* 🌐 Estilos personalizados */
+
+body {
+  scroll-behavior: smooth;
+}
+
+header h1 {
+  font-weight: 700;
+  color: #333;
+}
+
+footer {
+  font-size: 0.9rem;
+}
